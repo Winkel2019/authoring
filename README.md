@@ -9,9 +9,8 @@
 :confused: [For more information about Github](https://help.github.com/en)
 
 ## Internal Link & Image
-my favourite photo of Wellington :heart_eyes:
-
-![pretty wellington](https://user-images.githubusercontent.com/67947482/87039248-2c222080-c1ef-11ea-86c0-a222963cfa34.jpg)
+My favourite photo of Wellington
+img/pretty wellington.jpg
 
 ## Tables
 ### Schedule for tomorrow:blush:

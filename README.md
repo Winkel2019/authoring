@@ -1,8 +1,7 @@
 # Github Flavoured Markdown
 - [X] [External Link](#external-link)
 - [x] [Internal Link and Image](#internal-link-and-image)
-- [x] [Images](#images)
-- [X] [Tables](#table)
+- [X] [Tables](#tables)
 - [x] [Emojis](#emojis)
 
 ## External Link 

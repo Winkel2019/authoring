@@ -1,14 +1,15 @@
 # Github Flavoured Markdown
 - [X] [External Link](#external-link)
-- [x] Internal Link
-- [x] Images
-- [x] Emojis
-- [X] Tables
+- [x] [Internal Link](#internal-link)
+- [x] [Images](#images-link)
+- [X] [Tables](#table-link)
+- [x] [Emojis](#emojis-link)
 
 ## External Link 
 :confused: [For more information about Github](https://help.github.com/en)
 
-## Internal Link & Images
+## Internal Link  
+## Images
 ![My favourite photo of Wellington](/img/train-journeys.jpg)
 
 ## Tables

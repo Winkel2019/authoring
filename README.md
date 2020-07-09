@@ -9,7 +9,7 @@
 :confused: [For more information about Github](https://help.github.com/en)
 
 ## Internal Link & Images
-![My favourite photo of Wellington](img/pretty wellington.jpg)
+![My favourite photo of Wellington](/img/train-journeys.jpg)
 
 ## Tables
 ### Schedule for tomorrow:blush:

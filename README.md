@@ -8,9 +8,8 @@
 ## External Link 
 :confused: [For more information about Github](https://help.github.com/en)
 
-## Internal Link & Image
-My favourite photo of Wellington
-img/pretty wellington.jpg
+## Internal Link & Images
+![My favourite photo of Wellington](img/pretty wellington.jpg)
 
 ## Tables
 ### Schedule for tomorrow:blush:
@@ -24,4 +23,9 @@ img/pretty wellington.jpg
 | 12:00 | Lunch time |
 | 13:00 | Study time |
 | 15:00 | Massage time :relaxed:|
+
+## Emojis
+### Looking forward to holidays :sunny::sunglasses::car::tada:
+
+
 
